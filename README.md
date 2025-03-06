@@ -44,7 +44,7 @@
 
 ###
 
-<p align="left">Reach Me via</p>
+<h3 align="left">Reach Me via</h3>
 
 ###
 
@@ -53,5 +53,9 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
+
+###
+
+<p align="left">Thank you</p>
 
 ###
