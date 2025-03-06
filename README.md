@@ -49,13 +49,13 @@
 ###
 
 <div align="left">
-  <a href="linkedin.com/in/ushanperera" target="_blank">
+  <a href="https://www.linkedin.com/in/ushanperera/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
 
 ###
 
-<p align="left">Thank you</p>
+<p align="left">Thanks for visiting...</p>
 
 ###
