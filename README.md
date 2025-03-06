@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">•	Programming Languages: C#, TypeScript, JavaScript, HTML, CSS<br>•	Frameworks: .NET Core, Angular, ASP.NET MVC, Entity Framework<br>•	Cloud Technologies: Azure, Azure DevOps, Microsoft Graph API<br>•	Database Management: MS SQL Server, Oracle, MySQL<br>•	Development Methodologies: Agile, Scrum, Kanban, TDD<br>•	Tools: Visual Studio, VS Code, JIRA, Confluence, Miro</p>
+<p align="left">•	Programming Languages: C#, TypeScript, JavaScript, HTML, CSS<br>•	Frameworks: .NET Core, Angular, ASP.NET MVC, Entity Framework<br>•	Cloud Technologies: Azure, Azure DevOps, Microsoft Graph API<br>•	Database Management: MS SQL Server, Oracle 12c, MySQL<br>•	Development Methodologies: Agile, Scrum, Kanban, TDD<br>•	Tools: Visual Studio, VS Code, JIRA, Confluence, Miro</p>
 
 ###
 
@@ -23,11 +23,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
   <img width="12" />
@@ -35,15 +35,23 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" height="40" alt="nuget logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="40" alt="redhat logo"  />
+</div>
+
+###
+
+<p align="left">Reach Me via</p>
+
+###
+
+<div align="left">
+  <a href="linkedin.com/in/ushanperera" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
